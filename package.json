@@ -1,0 +1,15 @@
+{
+  "name": "practicafinal",
+  "version": "1.0.0",
+  "description": "Práctica final de DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
